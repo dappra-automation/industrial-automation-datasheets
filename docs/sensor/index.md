@@ -21,3 +21,9 @@ Kategori ini mencakup:
 - Limit Switch  
 
 Gunakan halaman ini untuk memilih datasheet sensor yang sesuai dengan aplikasi mesin.
+---
+
+## 🌐 Kunjungi Kategori Sensor di Website DAPPRA
+Produk sensor industri, katalog resmi, dan panduan penggunaan tersedia di:
+
+👉 https://dappra.com/product-category/sensor/
