@@ -1,0 +1,7 @@
+https://dappra-automation.github.io/industrial-automation-datasheets/sensor/
+https://dappra-automation.github.io/industrial-automation-datasheets/plc/
+https://dappra-automation.github.io/industrial-automation-datasheets/motor/
+https://dappra-automation.github.io/industrial-automation-datasheets/hmi/
+https://dappra-automation.github.io/industrial-automation-datasheets/connector/
+https://dappra-automation.github.io/industrial-automation-datasheets/datasheet/
+https://dappra-automation.github.io/industrial-automation-datasheets/product/
