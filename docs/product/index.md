@@ -14,3 +14,9 @@ Dokumen teknis untuk setiap produk resmi yang digunakan dalam otomasi industri.
 - PLC & HMI  
 
 Gunakan kategori ini untuk membuka datasheet berdasarkan nama produk.
+---
+
+## 🌐 Kunjungi Semua Produk DAPPRA
+Lihat katalog lengkap produk otomasi industri:
+
+👉 https://dappra.com/shop/
