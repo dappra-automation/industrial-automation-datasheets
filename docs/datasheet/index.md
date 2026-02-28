@@ -15,3 +15,9 @@ Koleksi lengkap dokumen teknis untuk seluruh komponen otomasi.
 - Diagram pinout  
 
 Halaman ini menjadi pusat semua dokumen referensi teknis.
+---
+
+## 🌐 Kunjungi Halaman Datasheet Resmi DAPPRA
+Semua datasheet dan wiring diagram produk dapat ditemukan di:
+
+👉  https://dappra.com/blog/
